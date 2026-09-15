@@ -1,0 +1,11 @@
+await farm.stakedAmount("0x1e5bD43E76E691b3032AE09D7f45BE60402C2388");
+await farm.totalStaked();
+);
+  "0xCd60a1537c80e5b6085FAFa466Ba23CfD2e04266"
+  "YieldFarm",
+const farm = await ethers.getContractAt(
+await farm.stakedAmount("YOUR_WALLET_ADDRESS");
+);
+  "YIELD_FARM_ADDRESS"
+  "YieldFarm",
+const farm = await ethers.getContractAt(
